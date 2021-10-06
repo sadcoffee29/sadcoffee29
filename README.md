@@ -1,6 +1,9 @@
 Hello friends!
+
 I'm currently learning Python 3
+
 I'm largely a hobbyist, with an eventual aim to work on automation and data handling.
+
 So far so good, my code is only 65% bug and dropping :)
 
 <!---
